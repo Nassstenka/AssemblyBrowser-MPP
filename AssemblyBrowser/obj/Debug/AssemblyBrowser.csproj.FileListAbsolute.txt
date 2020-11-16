@@ -1,0 +1,14 @@
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll.config
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+E:\BSUIR\SPP\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb

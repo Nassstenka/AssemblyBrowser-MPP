@@ -1,0 +1,40 @@
+E:\BSUIR\SPP\Lab3\WpfApp\bin\Debug\WpfApp.exe.config
+E:\BSUIR\SPP\Lab3\WpfApp\bin\Debug\WpfApp.exe
+E:\BSUIR\SPP\Lab3\WpfApp\bin\Debug\WpfApp.pdb
+E:\BSUIR\SPP\Lab3\WpfApp\bin\Debug\AssemblyBrowser.dll
+E:\BSUIR\SPP\Lab3\WpfApp\bin\Debug\AssemblyBrowser.pdb
+E:\BSUIR\SPP\Lab3\WpfApp\bin\Debug\AssemblyBrowser.dll.config
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\MainWindow.baml
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\MainWindow.g.cs
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\App.g.cs
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.g.resources
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.exe
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp.pdb
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\BSUIR\SPP\Lab3\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\bin\Debug\WpfApp.exe.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\bin\Debug\WpfApp.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\bin\Debug\WpfApp.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\bin\Debug\AssemblyBrowser.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\bin\Debug\AssemblyBrowser.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\bin\Debug\AssemblyBrowser.dll.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\App.g.cs
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\MainWindow.baml
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.g.resources
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Lab3\WpfApp\obj\Debug\WpfApp.pdb

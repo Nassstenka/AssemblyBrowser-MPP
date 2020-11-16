@@ -1,0 +1,7 @@
+E:\BSUIR\SPP\Lab3\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+E:\BSUIR\SPP\Lab3\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+E:\BSUIR\SPP\Lab3\TestProject\bin\Debug\TestProject.exe.config
+E:\BSUIR\SPP\Lab3\TestProject\bin\Debug\TestProject.exe
+E:\BSUIR\SPP\Lab3\TestProject\bin\Debug\TestProject.pdb
+E:\BSUIR\SPP\Lab3\TestProject\obj\Debug\TestProject.exe
+E:\BSUIR\SPP\Lab3\TestProject\obj\Debug\TestProject.pdb
